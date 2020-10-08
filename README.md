@@ -1,0 +1,2 @@
+# CsharpStrukturyGeneryczne
+Generyczne
